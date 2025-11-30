@@ -1,4 +1,4 @@
-**MA5131** _Advanced Calculus_ is a 5-unit, semester-long core course.
+**MA5131** _Advanced Calculus_ is a 5-unit semester-long core course.
 
 **Chapters**
 1. Limits and Continuity
