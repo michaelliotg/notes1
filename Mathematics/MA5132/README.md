@@ -1,4 +1,4 @@
-**MA5132** _Statistics_ is a 5-unit, semester-long core course.
+**MA5132** _Statistics_ is a 5-unit semester-long core course.
 
 **Chapters**
 1. Permutation & Combination, Probability
