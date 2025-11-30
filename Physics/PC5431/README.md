@@ -1,4 +1,4 @@
-**PC5431** _Calculus-based Physics I_ is a 2-unit, semester-long honours course.
+**PC5431** _Calculus-based Physics I_ is a 2-unit semester-long honours course.
 
 **Chapters**
 1. Differentiation as Rate of Change
